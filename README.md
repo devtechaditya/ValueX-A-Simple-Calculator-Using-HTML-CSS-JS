@@ -13,7 +13,7 @@ The goal of this project is to practice core frontend fundamentals, including DO
 
 📱 Responsive design (works on desktop and mobile)
 
-⚡ Fast and lightweight (Vanilla JavaScript)
+⚡ Fast and lightweight (JavaScript)
 
 🎯 Clean and intuitive UI
 
@@ -25,21 +25,8 @@ CSS3 – Styling & layout
 
 JavaScript (ES6) – Logic & interactivity
 
-🚀 Live Demo (Optional)
-
-Add your GitHub Pages link here
-
-📚 What I Learned
-
-DOM manipulation using JavaScript
-
-Handling user events efficiently
-
-Building a responsive UI from scratch
-
 Writing clean and readable frontend code
 
 📂 Project Status
-
 ✅ Completed
 🔧 Open to improvements and enhancements
