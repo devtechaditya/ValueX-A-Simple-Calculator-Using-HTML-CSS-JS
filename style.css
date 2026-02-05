@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-color: #30364F;
+}
+
+.button {
+    font-weight: 600;
+    font-size: 15px;
+    width: 60px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    cursor: pointer;
+    background-color: #F0F0DB;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.08);
+}
+
+.button:hover {
+    background-color: #ACBAC4;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.12);
+} 
+
+.button:active {
+    transform: translateY(2px);
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+}
+
+.row {
+    margin: 8px 0;
+}
+
+.row-input {
+    width: 285px;
+    font-size: 20px;
+    margin: 0;
+    padding: 12px 0px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: #FAF3E1;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.footer p {
+    background: #f4f6fb;          /* subtle soft color */
+    color: #4a5568;               /* muted text */
+    padding: 12px 22px;
+    border-radius: 14px;          /* rounded corners */
+    font-size: 14px;
+    font-weight: 500;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); /* soft elevation */
+    margin: 0;
+}
+
+.footer strong {
+  color: #2d3748;               /* slightly darker brand emphasis */
+}
+
+.footer .copyright {
+    font-size: 15px;
+    vertical-align: middle;
+}
+
+.row-input {
+    border-radius: 12px;
+    padding: 14px;
+    font-size: 20px;
+    box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.08);
+}
