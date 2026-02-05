@@ -1,1 +1,1 @@
-# ValueX-A-Simple-Calculator-Using-HTML-CSS-JS
+# ValueX-A-Simple-Calculator-Using-HTML-CSS-JAVASCRIPT
