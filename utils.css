@@ -1,0 +1,78 @@
+/* =========================
+Hero Title
+========================= */
+
+.hero-title {
+    width: fit-content;
+    margin: 40px auto 32px;
+}
+
+.hero-title h1 {
+    background: #f4f6fb;
+    color: #2d3748;
+    padding: 20px 36px;
+    border-radius: 18px;
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.06);
+    margin: 0;
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease;
+}
+
+.hero-title h1:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 28px rgba(0, 0, 0, 0.08);
+}
+
+.hero-title h1 span {
+    color: #4a5568;
+    font-weight: 600;
+}
+
+/* =========================
+Utility Classes
+========================= */
+
+.bg-red {
+    background-color: red;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
+
+/* Optional spacing utility */
+.text-center {
+    text-align: center;
+}
+
+/* =========================
+Footer Micro-Interaction
+========================= */
+
+.footer p {
+    transition:
+        transform 0.25s ease,
+        box-shadow 0.25s ease;
+}
+
+.footer p:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.07);
+}
