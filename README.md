@@ -30,3 +30,11 @@ Writing clean and readable frontend code
 📂 Project Status
 ✅ Completed
 🔧 Open to improvements and enhancements
+
+---
+
+## 📸 Snapshots
+
+<p align="center">
+  <img src="Output Snippet.png" alt="Output Snippet" width="45%">
+</p>
